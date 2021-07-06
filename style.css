@@ -5,7 +5,7 @@ body{
 }
 
 .padding-added{
-    padding-top: 5%;
+    padding-top: 10%;
 }
 
 .orange-color{
@@ -23,6 +23,7 @@ body{
 
 .half-width img{
     width: 70%;
+    padding-left: 25%;
  
 }
 
@@ -34,4 +35,7 @@ body{
     color: white;
     border-radius: 40px;
 
+}
+.background-img{
+    background-image: url(images/shapes/7.png);
 }
